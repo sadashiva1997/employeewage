@@ -1,0 +1,15 @@
+C:\Users\sadashiva\source\repos\Employeeproblems\bin\Debug\net6.0\Employeeproblems.exe
+C:\Users\sadashiva\source\repos\Employeeproblems\bin\Debug\net6.0\Employeeproblems.deps.json
+C:\Users\sadashiva\source\repos\Employeeproblems\bin\Debug\net6.0\Employeeproblems.runtimeconfig.json
+C:\Users\sadashiva\source\repos\Employeeproblems\bin\Debug\net6.0\Employeeproblems.dll
+C:\Users\sadashiva\source\repos\Employeeproblems\bin\Debug\net6.0\Employeeproblems.pdb
+C:\Users\sadashiva\source\repos\Employeeproblems\obj\Debug\net6.0\Employeeproblems.csproj.AssemblyReference.cache
+C:\Users\sadashiva\source\repos\Employeeproblems\obj\Debug\net6.0\Employeeproblems.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\sadashiva\source\repos\Employeeproblems\obj\Debug\net6.0\Employeeproblems.AssemblyInfoInputs.cache
+C:\Users\sadashiva\source\repos\Employeeproblems\obj\Debug\net6.0\Employeeproblems.AssemblyInfo.cs
+C:\Users\sadashiva\source\repos\Employeeproblems\obj\Debug\net6.0\Employeeproblems.csproj.CoreCompileInputs.cache
+C:\Users\sadashiva\source\repos\Employeeproblems\obj\Debug\net6.0\Employeeproblems.dll
+C:\Users\sadashiva\source\repos\Employeeproblems\obj\Debug\net6.0\refint\Employeeproblems.dll
+C:\Users\sadashiva\source\repos\Employeeproblems\obj\Debug\net6.0\Employeeproblems.pdb
+C:\Users\sadashiva\source\repos\Employeeproblems\obj\Debug\net6.0\Employeeproblems.genruntimeconfig.cache
+C:\Users\sadashiva\source\repos\Employeeproblems\obj\Debug\net6.0\ref\Employeeproblems.dll
